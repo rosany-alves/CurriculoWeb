@@ -1,0 +1,25 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+}
+
+body{
+    background-color: #e9e7e7;
+}
+
+.caixa{
+    display: flex;
+    padding: 20px;
+    justify-content: left;
+}
+
+.caixa1{
+    margin-right: 5px;
+    padding: 20px;
+}
+
+.caixa2{
+    margin-left: 5px;
+    padding: 20px;
+}
